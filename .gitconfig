@@ -1,7 +1,9 @@
 [user]
-	name = tumiinstance
-	email = tumijukicloud@gmail.com
+	name = leaddevops
+	email = leaddevops@gmail.com
 [help]
 	autocorrect = 1
 [code]
+	editor = vim
+[core]
 	editor = vim
