@@ -61,3 +61,8 @@ git status
 git add .
 git status
 got commit -m "commit name"
+git version
+sudo systemctl jenkins start
+java
+java -version
+sudo su
