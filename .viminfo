@@ -11,10 +11,14 @@
 # hlsearch on (H) or off (h):
 ~h
 # Command Line History (newest to oldest):
+:wq
+|2,0,1605818671,,"wq"
+:q
+|2,0,1605818648,,"q"
+:.!
+|2,0,1605818567,,".!"
 :wq!
 |2,0,1604590287,,"wq!"
-:q
-|2,0,1604590246,,"q"
 :q!
 |2,0,1604071455,,"q!"
 
@@ -27,33 +31,53 @@
 # Debug Line History (newest to oldest):
 
 # Registers:
+"e	CHAR	0
+	eee
+|3,0,14,0,1,0,1605818470,"eee"
 "h	CHAR	0
 	628
 <gq€kb€kbs€kbd€kb €kb    Meow Tumi			{z€kb€kb€kb€kb€kb€kb€kr€kr€kr€kr€kl€kr€kr€kr{€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr{{{{€kd€kd€kd€kd€kd€kd€kd€kr€kr€kr€kr€kr€kr€kr€kr{{{{lmjlkhdihskhss€kb€kb€kb€kb€kb€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kbme€kb€kb€kb    €kb€kb€kb€kb€kb€kb€kb		€kbmeo€kbow tumi€kb{				public tsatic void€kb€kl€kl€kl€kl€kl€kl€kl€kl€kl€kl€kr€kb€krt€kr€kr€kr€kr€kr€kr€kr€kr€krd(main€kb€kb€kb€kb€kb main (sr€kbtring[] args)€kr				system.out.printin(This is how we do it");i€kbws:€kb€kb€kb€kbwd€kb€kbq€kbw€kbi€kbo€kbwd:€kb€kb!:s
 |3,0,17,0,1,0,1604065342,>628
 |<"gq€kb€kbs€kbd€kb €kb    Meow Tumi			{z€kb€kb€kb€kb€kb€kb€kr€kr€kr€kr€kl€kr€kr€kr{€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr{{{{€kd€kd€kd€kd€kd€kd€kd€kr€kr€kr€kr€kr€kr€kr€kr{{{{lmjlkhdihskhss€kb€kb€kb€kb€kb€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kb€kbme€kb€kb€kb    €kb€kb€kb€kb€kb€kb€kb		€kbmeo€kbow tumi€kb{				public tsatic void€kb€kl€kl€kl€kl€kl€kl€kl€kl€kl€kl€kr€kb€krt€kr€kr€kr€kr€kr€kr€kr€kr€krd(main€kb€kb€kb€kb€kb main (sr€kbtring[] args)€kr
 |<				system.out.printin(This is how we do it\");i€kbws:€kb€kb€kb€kbwd€kb€kbq€kbw€kbi€kbo€kbwd:€kb€kb!:s"
+"q	CHAR	0
+	w
+|3,0,26,0,1,0,1605818436,"w"
 ""-	CHAR	0
 		
 |3,1,36,0,1,0,1604065388,"	"
 
 # File marks:
-'0  22  0  ~/.git/COMMIT_EDITMSG
-|4,48,22,0,1604590287,"~/.git/COMMIT_EDITMSG"
-'1  2  0  ~/.gitignore
-|4,49,2,0,1604071455,"~/.gitignore"
-'2  6  0  ~/newprojfolder/tumi.meow
-|4,50,6,0,1604065492,"~/newprojfolder/tumi.meow"
+'0  4  0  ~/.gitignore
+|4,48,4,0,1605818671,"~/.gitignore"
+'1  22  0  ~/.git/COMMIT_EDITMSG
+|4,49,22,0,1604590287,"~/.git/COMMIT_EDITMSG"
+'2  2  0  ~/.gitignore
+|4,50,2,0,1604071455,"~/.gitignore"
+'3  2  0  ~/.gitignore
+|4,51,2,0,1604071455,"~/.gitignore"
+'4  6  0  ~/newprojfolder/tumi.meow
+|4,52,6,0,1604065492,"~/newprojfolder/tumi.meow"
 
 # Jumplist (newest first):
+-'  4  0  ~/.gitignore
+|4,39,4,0,1605818671,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1605818397,"~/.gitignore"
 -'  22  0  ~/.git/COMMIT_EDITMSG
 |4,39,22,0,1604590287,"~/.git/COMMIT_EDITMSG"
+-'  22  0  ~/.git/COMMIT_EDITMSG
+|4,39,22,0,1604590287,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1604589848,"~/.git/COMMIT_EDITMSG"
 -'  1  0  ~/.git/COMMIT_EDITMSG
 |4,39,1,0,1604589848,"~/.git/COMMIT_EDITMSG"
 -'  2  0  ~/.gitignore
 |4,39,2,0,1604071455,"~/.gitignore"
 -'  2  0  ~/.gitignore
 |4,39,2,0,1604071455,"~/.gitignore"
+-'  2  0  ~/.gitignore
+|4,39,2,0,1604071455,"~/.gitignore"
 -'  1  0  ~/.gitignore
 |4,39,1,0,1604071298,"~/.gitignore"
 -'  1  0  ~/.gitignore
@@ -66,6 +90,22 @@
 |4,39,6,0,1604065492,"~/newprojfolder/tumi.meow"
 -'  6  0  ~/newprojfolder/tumi.meow
 |4,39,6,0,1604065492,"~/newprojfolder/tumi.meow"
+-'  6  0  ~/newprojfolder/tumi.meow
+|4,39,6,0,1604065492,"~/newprojfolder/tumi.meow"
+-'  6  0  ~/newprojfolder/tumi.meow
+|4,39,6,0,1604065492,"~/newprojfolder/tumi.meow"
+-'  6  0  ~/newprojfolder/tumi.meow
+|4,39,6,0,1604065492,"~/newprojfolder/tumi.meow"
+-'  6  0  ~/newprojfolder/tumi.meow
+|4,39,6,0,1604065492,"~/newprojfolder/tumi.meow"
+-'  1  0  ~/newprojfolder/tumi.meow
+|4,39,1,0,1604065047,"~/newprojfolder/tumi.meow"
+-'  1  0  ~/newprojfolder/tumi.meow
+|4,39,1,0,1604065047,"~/newprojfolder/tumi.meow"
+-'  1  0  ~/newprojfolder/tumi.meow
+|4,39,1,0,1604065047,"~/newprojfolder/tumi.meow"
+-'  1  0  ~/newprojfolder/tumi.meow
+|4,39,1,0,1604065047,"~/newprojfolder/tumi.meow"
 -'  1  0  ~/newprojfolder/tumi.meow
 |4,39,1,0,1604065047,"~/newprojfolder/tumi.meow"
 -'  1  0  ~/newprojfolder/tumi.meow
@@ -77,6 +117,15 @@
 
 # History of marks within files (newest to oldest):
 
+> ~/.gitignore
+	*	1605818662	0
+	"	4	0
+	^	4	0
+	.	4	0
+	+	1	10
+	+	3	31
+	+	4	0
+
 > ~/.git/COMMIT_EDITMSG
 	*	1604590278	0
 	"	22	0
@@ -84,13 +133,6 @@
 	.	2	4
 	+	1	3
 	+	2	4
-
-> ~/.gitignore
-	*	1604071432	0
-	"	2	0
-	^	2	0
-	.	1	27
-	+	1	27
 
 > ~/newprojfolder/tumi.meow
 	*	1604065473	0
